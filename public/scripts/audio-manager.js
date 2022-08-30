@@ -1,7 +1,7 @@
 
 const setupAudio = () => {
     const musicAudio = new Howl ({
-        src: ["../assets/music.mp3"],
+        src: ["../models/music.mp3"],
         autoplay:true,
         loop:true
     });
