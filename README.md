@@ -47,3 +47,4 @@ Create a backend to log users scores and display high scores.
 coins or points that players can collect spread on the map.
 objects that have variations and not just grey blocks.
 speed increase as time goes on.
+# runningsquare
